@@ -8,7 +8,7 @@
 
 - [x] Aula 01 - Introdução ao Dart/Flutter - 15/02/2023
 - [x] Aula 02 - Criando meu primeiro App - Etanol x Gasolina - 01/03/2023
-- [ ] Aula 03 - Criação de novas telas; Navegação entre telas - 08/03/2023
+- [x] Aula 03 - Criação de Widgets; Mensagem de Alerta (AlertDialog) - 08/03/2023
 
 ### Tecnologias
 
